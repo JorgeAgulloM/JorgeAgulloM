@@ -9,9 +9,9 @@ I am a student of cross-platform applications, I love backend development and mo
 ### Social
 
 <!-- BLOG-POST-LIST:START -->
-<a href="https://twitter.com/JorgeAgulloM" target="blank"><img align="center" src="https://icons8.com/icon/5MQ0gPAYYx7a/twitter" alt="gautamkrishnar" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/jorgeagullo/" target="blank"><img align="center" src="https://icons8.com/icon/13930/linkedin" alt="gautamkrishnar" height="30" width="40" /></a>
-<a href="agullojorge@gmail.com" target="blank"><img align="center" src ="https://icons8.com/icon/ho8QlOYvMuG3/gmail"></img></a>
+<a href="https://twitter.com/JorgeAgulloM" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/000000/twitter.png" alt="JorgeAgulloM" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/jorgeagullo/" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="JorgeAgulloM" height="30" width="40" /></a>
+<a href="agullojorge@gmail.com" target="blank"><img align="center" src ="https://img.icons8.com/fluency/48/000000/gmail.png"></img></a>
 <!-- BLOG-POST-LIST:END -->
 
 
@@ -26,12 +26,11 @@ I am a student of cross-platform applications, I love backend development and mo
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![MySQL](https://img.shields.io/static/v1?label=<LABEL>&message=<MySQL>&color=<blue>)
 
 
 #### Developing
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Visual Studio 2010 VB](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=black)
+![Visual Studio 2010 VB](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-2010&logoColor=black)
 
