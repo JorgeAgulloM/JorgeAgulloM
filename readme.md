@@ -3,25 +3,17 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JorgeAgulloM&show_icons=true)](https://github.com/JorgeAgulloM/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeAgulloM&layout=compact)](https://github.com/JorgeAgulloM/github-readme-stats)
 
-I am a student of cross-platform applications, I love backend development and mobile applications.
-
 ## About me
+I am a student of cross-platform applications, I love backend development and mobile applications.
 
 ### Social
 
 <!-- BLOG-POST-LIST:START -->
-<a href="https://twitter.com/gautamkrishnar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gautamkrishnar" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/jorgeagullo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautamkrishnar" height="30" width="40" /></a>
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jorgeagullo/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:agullojorge@gmail.com)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:agullojorge@gmail.com)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:agullojorge@gmail.com)
+<a href="https://twitter.com/JorgeAgulloM" target="blank"><img align="center" src="https://icons8.com/icon/5MQ0gPAYYx7a/twitter" alt="gautamkrishnar" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/jorgeagullo/" target="blank"><img align="center" src="https://icons8.com/icon/13930/linkedin" alt="gautamkrishnar" height="30" width="40" /></a>
+<a href="agullojorge@gmail.com" target="blank"><img align="center" src ="https://icons8.com/icon/ho8QlOYvMuG3/gmail"></img></a>
 <!-- BLOG-POST-LIST:END -->
 
-<!-- <a href="https://twitter.com/gautamkrishnar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gautamkrishnar" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/gautamkrishnar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautamkrishnar" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/4214976" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="4214976" height="30" width="40" /></a>
- -->
 
 ### Things I code with
 
