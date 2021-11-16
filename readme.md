@@ -7,6 +7,7 @@
   
 ## About me
 I am a student of cross-platform applications, I love backend development and mobile applications.
+<a href="https://drive.google.com/file/d/1AACAmXfAvnWoTKcatKGdNUqBrA3UEklN/view?usp=sharing">My Curriculo (Only in Spanish)</a>
 
 ### Social
 
