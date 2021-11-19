@@ -10,7 +10,7 @@ I am a student of cross-platform applications, I love backend development and mo
 <br>
 <a href="https://drive.google.com/file/d/1AACAmXfAvnWoTKcatKGdNUqBrA3UEklN/view?usp=sharing">My Curriculum Vitae (Only in Spanish)</a>
 
-### Social
+#### Social
 
 <!-- BLOG-POST-LIST:START -->
 <a href="https://twitter.com/JorgeAgulloM" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/000000/twitter.png" alt="JorgeAgulloM" height="30" width="40"></a>
@@ -30,13 +30,13 @@ I am a student of cross-platform applications, I love backend development and mo
 ![Spring](https://img.shields.io/static/v1?style=for-the-badge&message=Spring&color=6DB33F&logo=Spring&logoColor=FFFFFF&label=)
 
 
-#### things that interest me
+## things that interest me
 ![Node.js](https://img.shields.io/static/v1?style=for-the-badge&message=Node.js&color=339933&logo=Node.js&logoColor=FFFFFF&label=)
 ![Docker](https://img.shields.io/static/v1?style=for-the-badge&message=Docker&color=2496ED&logo=Docker&logoColor=FFFFFF&label=)
 ![Kubernetes](https://img.shields.io/static/v1?style=for-the-badge&message=Kubernetes&color=326CE5&logo=Kubernetes&logoColor=FFFFFF&label=)
 
 
-### other things I know
+#### other things I know
 ![.NET](https://img.shields.io/static/v1?style=for-the-badge&message=.NET&color=512BD4&logo=.NET&logoColor=FFFFFF&label=)
 ![Unity](https://img.shields.io/static/v1?style=for-the-badge&message=Unity&color=000000&logo=Unity&logoColor=FFFFFF&label=)
 ![Git](https://img.shields.io/static/v1?style=for-the-badge&message=Git&color=F05032&logo=Git&logoColor=FFFFFF&label=)
