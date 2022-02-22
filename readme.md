@@ -6,7 +6,7 @@
 <img src ="https://github-readme-streak-stats.herokuapp.com?user=JorgeAgulloM&theme=darcula&hide_border=true&background=FFFFFF00">
   
 ## About me
-I am a student of cross-platform applications, I love backend development and mobile applications.
+I am a student of Multi-platform applications, I love backend development and mobile applications.
 <br>
 <a href="https://drive.google.com/file/d/1AACAmXfAvnWoTKcatKGdNUqBrA3UEklN/view?usp=sharing">My Curriculum Vitae (Only in Spanish)</a>
 
