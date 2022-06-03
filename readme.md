@@ -8,7 +8,7 @@
 ## About me
 Multi-platform Applications Developer, I love backend development and mobile applications.
 <br>
-<a href="https://drive.google.com/file/d/1AACAmXfAvnWoTKcatKGdNUqBrA3UEklN/view?usp=sharing">My Curriculum Vitae (Only in Spanish)</a>
+<a href="https://drive.google.com/file/d/1HL-EE7NjKsmS_xDmKofML1q0pNED7ioQ/view?usp=sharing">My Curriculum Vitae (Only in Spanish)</a>
 
 #### Social
 
