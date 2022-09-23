@@ -38,6 +38,7 @@ Multi-platform Applications Developer, I love backend development and mobile app
 
 #### other things I know
 ![Git](https://img.shields.io/static/v1?style=for-the-badge&message=Git&color=F05032&logo=Git&logoColor=FFFFFF&label=)
+![Ios](https://camo.githubusercontent.com/96a665824f2ebeded1dc161aa1b52d70b006857c95732f05ea7dc9c9362d3efc/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d694f5326636f6c6f723d303030303030266c6f676f3d694f53266c6f676f436f6c6f723d464646464646266c6162656c3d)
 ![Unity](https://img.shields.io/static/v1?style=for-the-badge&message=Unity&color=000000&logo=Unity&logoColor=FFFFFF&label=)
 ![Angular](https://img.shields.io/static/v1?style=for-the-badge&message=Angular&color=DD0031&logo=Angular&logoColor=FFFFFF&label=)
 ![MySQL](https://img.shields.io/static/v1?style=for-the-badge&message=MySQL&color=4479A1&logo=MySQL&logoColor=FFFFFF&label=)
@@ -46,8 +47,6 @@ Multi-platform Applications Developer, I love backend development and mobile app
 ![Raspberry Pi](https://img.shields.io/static/v1?style=for-the-badge&message=Raspberry+Pi&color=A22846&logo=Raspberry+Pi&logoColor=FFFFFF&label=)
 ![Trello](https://img.shields.io/static/v1?style=for-the-badge&message=Trello&color=0052CC&logo=Trello&logoColor=FFFFFF&label=)
 ![.NET](https://img.shields.io/static/v1?style=for-the-badge&message=.NET&color=512BD4&logo=.NET&logoColor=FFFFFF&label=)
-![.NET](https://camo.githubusercontent.com/96a665824f2ebeded1dc161aa1b52d70b006857c95732f05ea7dc9c9362d3efc/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d694f5326636f6c6f723d303030303030266c6f676f3d694f53266c6f676f436f6c6f723d464646464646266c6162656c3d)
-
 
 
 
