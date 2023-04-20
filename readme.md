@@ -10,12 +10,16 @@ Multi-platform Applications Developer, I love backend development and mobile app
 <br>
 <a href="https://drive.google.com/file/d/1HL-EE7NjKsmS_xDmKofML1q0pNED7ioQ/view?usp=sharing">My Curriculum Vitae (Only in Spanish)</a>
 
-#### Social
+## My published Apps
+#### Percent Mate will help you speed up your percentage calculations.
+<a href="https://play.google.com/store/apps/details?id=com.softyorch.percentmate&hl=es&gl=US" target="blank"><img align="center" src="https://play-lh.googleusercontent.com/zuwVSO5RvRT_lpn5hu0RfpLV6Xp6L02_6_uEhq-P0inzi1uTk0JmKFwtbw0nUGYfx0xC=s48-rw" alt="JorgeAgulloM" height="40" width="40"></a>
+<br>
 
+#### Social
 <!-- BLOG-POST-LIST:START -->
-<a href="https://twitter.com/JorgeAgulloM" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/000000/twitter.png" alt="JorgeAgulloM" height="30" width="40"></a>
-<a href="https://www.linkedin.com/in/jorgeagullo/" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="JorgeAgulloM" height="30" width="40"></a>
-<a href="agullojorge@gmail.com" target="blank"><img align="center" src ="https://img.icons8.com/fluency/48/000000/gmail.png" alt="JorgeAgulloM" height="30" width="40"></img></a>
+<a href="https://twitter.com/JorgeAgulloM" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/000000/twitter.png" alt="JorgeAgulloM" height="40" width="40"></a>
+<a href="https://www.linkedin.com/in/jorgeagullo/" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="JorgeAgulloM" height="40" width="40"></a>
+<a href="agullojorge@gmail.com" target="blank"><img align="center" src ="https://img.icons8.com/fluency/48/000000/gmail.png" alt="JorgeAgulloM" height="40" width="40"></img></a>
 <!-- BLOG-POST-LIST:END -->
 
 
