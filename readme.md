@@ -15,7 +15,7 @@ Multi-platform Applications Developer, I love backend development and mobile app
 <a href="https://play.google.com/store/apps/details?id=com.softyorch.percentmate&hl=es&gl=US" target="blank"><img align="center" src="https://play-lh.googleusercontent.com/zuwVSO5RvRT_lpn5hu0RfpLV6Xp6L02_6_uEhq-P0inzi1uTk0JmKFwtbw0nUGYfx0xC=s48-rw" alt="JorgeAgulloM" height="40" width="40"></a>
 <br>
 #### With DailyElectricCost, you can save on your electricity bill..
-<a href="[https://play.google.com/store/apps/details?id=com.softyorch.percentmate&hl=es&gl=US](https://play-lh.googleusercontent.com/uuFMQdfR6_kaEy7csesnV4GxCNFyWKMV2z_wivydNdGFIK8WO0LXss10komcDX1vRqQ=w240-h480-rw)" target="blank"><img align="center" src="[https://play-lh.googleusercontent.com/zuwVSO5RvRT_lpn5hu0RfpLV6Xp6L02_6_uEhq-P0inzi1uTk0JmKFwtbw0nUGYfx0xC=s48-rw](https://play.google.com/store/apps/details?id=com.softyorch.dailyelectriccost)" alt="JorgeAgulloM" height="40" width="40"></a>
+<a href="https://play-lh.googleusercontent.com/uuFMQdfR6_kaEy7csesnV4GxCNFyWKMV2z_wivydNdGFIK8WO0LXss10komcDX1vRqQ=w240-h480-rw" target="blank"><img align="center" src="https://play.google.com/store/apps/details?id=com.softyorch.dailyelectriccost" alt="JorgeAgulloM" height="40" width="40"></a>
 <br>
 
 #### Social
