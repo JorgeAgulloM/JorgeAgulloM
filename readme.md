@@ -11,11 +11,11 @@ Multi-platform Applications Developer, I love backend development and mobile app
 <a href="https://drive.google.com/file/d/1HL-EE7NjKsmS_xDmKofML1q0pNED7ioQ/view?usp=sharing">My Curriculum Vitae (Only in Spanish)</a>
 
 ## My published Apps
-#### Percent Mate will help you speed up your percentage calculations.
-<a href="https://play.google.com/store/apps/details?id=com.softyorch.percentmate&hl=es&gl=US" target="blank"><img align="center" src="https://play-lh.googleusercontent.com/zuwVSO5RvRT_lpn5hu0RfpLV6Xp6L02_6_uEhq-P0inzi1uTk0JmKFwtbw0nUGYfx0xC=s48-rw" alt="JorgeAgulloM" height="40" width="40"></a>
-<br>
 #### With DailyElectricCost, you can save on your electricity bill..
 <a href="https://play.google.com/store/apps/details?id=com.softyorch.dailyelectriccost" target="blank"><img align="center" src="https://lh3.googleusercontent.com/uuFMQdfR6_kaEy7csesnV4GxCNFyWKMV2z_wivydNdGFIK8WO0LXss10komcDX1vRqQ" alt="JorgeAgulloM" height="40" width="40"></a>
+<br>
+#### Percent Mate will help you speed up your percentage calculations.
+<a href="https://play.google.com/store/apps/details?id=com.softyorch.percentmate&hl=es&gl=US" target="blank"><img align="center" src="https://play-lh.googleusercontent.com/zuwVSO5RvRT_lpn5hu0RfpLV6Xp6L02_6_uEhq-P0inzi1uTk0JmKFwtbw0nUGYfx0xC=s48-rw" alt="JorgeAgulloM" height="40" width="40"></a>
 <br>
 
 #### Social
