@@ -31,7 +31,7 @@ Multi-platform Applications Developer, I love backend development and mobile app
 ![Kotlin](https://img.shields.io/static/v1?style=for-the-badge&message=Kotlin&color=7F52FF&logo=Kotlin&logoColor=FFFFFF&label=)
 ![Python](https://img.shields.io/static/v1?style=for-the-badge&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF&label=)
 ![Java](https://img.shields.io/static/v1?style=for-the-badge&message=Java&color=007396&logo=Java&logoColor=FFFFFF&label=)
-![Spring](https://camo.githubusercontent.com/71ee04cc51defd03d0bda46ef2d49c562b7d1fb45b266eba4cf0f226d4fc0d0d/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d537072696e6726636f6c6f723d364442333346266c6f676f3d537072696e67266c6f676f436f6c6f723d464646464646266c6162656c3d)
+![Spring](https://img.shields.io/static/v1?style=for-the-badge&message=Spring&color=6DB33F&logo=Spring&logoColor=FFFFFF&label=)
 
 
 ## Things that interest me
