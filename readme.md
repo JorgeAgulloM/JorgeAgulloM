@@ -35,7 +35,7 @@ Multi-platform Applications Developer, I love backend development and mobile app
 
 
 ## Things that interest me
-![Ios](https://camo.githubusercontent.com/96a665824f2ebeded1dc161aa1b52d70b006857c95732f05ea7dc9c9362d3efc/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d694f5326636f6c6f723d303030303030266c6f676f3d694f53266c6f676f436f6c6f723d464646464646266c6162656c3d)
+![iOS](https://img.shields.io/static/v1?style=for-the-badge&message=iOS&color=000000&logo=iOS&logoColor=FFFFFF&label=)
 ![Unity](https://img.shields.io/static/v1?style=for-the-badge&message=Unity&color=000000&logo=Unity&logoColor=FFFFFF&label=)
 
 
