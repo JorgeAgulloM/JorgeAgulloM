@@ -7,7 +7,7 @@
 ## About me
 Multi-platform Applications Developer, I love backend development and mobile applications.
 <br>
-<a href="https://drive.google.com/file/d/1HL-EE7NjKsmS_xDmKofML1q0pNED7ioQ/view?usp=sharing">My Curriculum Vitae (Only in Spanish)</a>
+<a href="https://drive.google.com/file/d/1rwKx6EkMwGpc1r9MPXlA-rwul7SPjLg6/view?usp=sharing">My Curriculum Vitae (Only in Spanish)</a>
 
 ## My published Apps
 #### With DailyElectricCost, you can save on your electricity bill..
