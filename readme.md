@@ -12,6 +12,7 @@ Multi-platform Applications Developer, I love backend development and mobile app
 ## My published Apps
 #### With DailyElectricCost, you can save on your electricity bill..
 <a href="https://play.google.com/store/apps/details?id=com.softyorch.dailyelectriccost" target="blank"><img align="center" src="https://lh3.googleusercontent.com/uuFMQdfR6_kaEy7csesnV4GxCNFyWKMV2z_wivydNdGFIK8WO0LXss10komcDX1vRqQ" alt="JorgeAgulloM" height="40" width="40"></a>
+<a href="https://play.google.com/store/apps/details?id=com.softyorch.chronosalarm" target="blank"><img align="center" src="https://play-lh.googleusercontent.com/EG3EXTs5qSrFrhbIOdJspO9C8je0C-Vl2dYU8twAZZPaMTJy9lCYcofNhzDLX3FpC6jNZ-Az1nCcfnI5_hnnB1o=w240-h480-rw" alt="JorgeAgulloM" height="40" width="40"></a>
 <br>
 
 #### Social
