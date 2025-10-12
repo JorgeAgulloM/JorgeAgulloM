@@ -3,17 +3,26 @@
 <div><img height="45%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=JorgeAgulloM&show_icons=true&theme=darcula&hide_border=true&bg_color=00000000">
 <img height="35%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeAgulloM&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php">
 </div>
+
   
 ## About me
 Multi-platform Applications Developer, I love backend development and mobile applications.
 <br>
 <a href="https://drive.google.com/file/d/1rwKx6EkMwGpc1r9MPXlA-rwul7SPjLg6/view?usp=sharing">My Curriculum Vitae (Only in Spanish)</a>
 
+
 ## My published Apps
-#### With DailyElectricCost, you can save on your electricity bill..
+#### Here you can see some of my apps on Google Play
 <a href="https://play.google.com/store/apps/details?id=com.softyorch.dailyelectriccost" target="blank"><img align="center" src="https://lh3.googleusercontent.com/uuFMQdfR6_kaEy7csesnV4GxCNFyWKMV2z_wivydNdGFIK8WO0LXss10komcDX1vRqQ" alt="JorgeAgulloM" height="40" width="40"></a>
 <a href="https://play.google.com/store/apps/details?id=com.softyorch.chronosalarm" target="blank"><img align="center" src="https://play-lh.googleusercontent.com/EG3EXTs5qSrFrhbIOdJspO9C8je0C-Vl2dYU8twAZZPaMTJy9lCYcofNhzDLX3FpC6jNZ-Az1nCcfnI5_hnnB1o=w240-h480-rw" alt="JorgeAgulloM" height="40" width="40"></a>
+<a href="https://play.google.com/store/apps/details?id=com.softyorch.famousquotes.uplifting" target="blank"><img align="center" src="https://play-lh.googleusercontent.com/ycEa6dzptJljnuun7u8ADyZM7jY-4Md2svJ4h4wvlyvmve3ayoc_eQqp7jxlgbr8vl4=s256-rw" alt="JorgeAgulloM" height="40" width="40"></a>
 <br>
+
+
+## My portfolio
+<a href="https://softyorch.com" target="blank">softyorch.com</a>
+<br>
+
 
 #### Social
 <!-- BLOG-POST-LIST:START -->
