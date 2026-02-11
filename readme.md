@@ -1,16 +1,5 @@
 # Hi there, I'm Jorge 👋
 
-<div><img height="45%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=JorgeAgulloM&show_icons=true&theme=darcula&hide_border=true&bg_color=00000000">
-<img height="35%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeAgulloM&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php">
-</div>
-
-  
-## About me
-Multi-platform Applications Developer, I love backend development and mobile applications.
-<br>
-<a href="https://drive.google.com/file/d/1rwKx6EkMwGpc1r9MPXlA-rwul7SPjLg6/view?usp=sharing">My Curriculum Vitae (Only in Spanish)</a>
-
-
 ## My published Apps
 #### Here you can see some of my apps on Google Play
 <a href="https://play.google.com/store/apps/details?id=com.softyorch.dailyelectriccost" target="blank"><img align="center" src="https://lh3.googleusercontent.com/uuFMQdfR6_kaEy7csesnV4GxCNFyWKMV2z_wivydNdGFIK8WO0LXss10komcDX1vRqQ" alt="JorgeAgulloM" height="40" width="40"></a>
